@@ -13,9 +13,8 @@ Passionate about extracting actionable insights from data, building clear data p
 ---
 
 ### 🏆 Badges & Certifications
-[![Kaggle Profile](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/)
-[![Credly Badges](https://img.shields.io/badge/Credly-Badges-orange?style=flat&logo=credly)](https://www.credly.com/)
-
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/salaheddinechekroude)
+[![Credly Badges](https://img.shields.io/badge/Credly-Badges-orange?style=flat&logo=credly)](https://www.credly.com/users/salah-eddine-chekroude)
 ---
 
 ### 📫 Connect with Me

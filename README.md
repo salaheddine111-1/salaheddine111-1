@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🖐️ Hi, I'm Salah Eddine
 
-<!--
-**salaheddine111-1/salaheddine111-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analytics Practitioner
+Passionate about extracting actionable insights from data, building clear data pipelines, and implementing analytical solutions using Python and SQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, SQL
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+- **Tools & Platforms:** Jupyter Notebooks, Kaggle, Git & GitHub
+
+---
+
+### 🏆 Badges & Certifications
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/)
+[![Credly Badges](https://img.shields.io/badge/Credly-Badges-orange?style=flat&logo=credly)](https://www.credly.com/)
+
+---
+
+### 📫 Connect with Me
+- **Location:** Fes, Morocco

@@ -22,7 +22,8 @@ Passionate about extracting actionable insights from data, building clear data p
 - 💼 **Virtual Assistant Program (ALX)** – [Verify Certificate](https://savanna.alxafrica.com/certificates/FZ85XnpMrC)
 - 🚀 **Professional Foundations (ALX)** – [Verify Certificate](https://savanna.alxafrica.com/certificates/7X5N3LTFYz)
 - 💡 **One Million Prompters Initiative (Dubai Future Foundation)** – [Verify Certificate](https://omp.dub.ai/certificate/N2MD3bizNcZ4)
-
+* 🐼 Pandas (Kaggle) – [Verify Certificate](https://www.kaggle.com/learn/certification/salaheddinechekroude/pandas)
+* 🤖 Intermediate Machine Learning (Kaggle) – [Verify Certificate](https://www.kaggle.com/learn/certification/salaheddinechekroude/intermediate-machine-learning)
 ---
 
 ### 📫 Connect with Me
